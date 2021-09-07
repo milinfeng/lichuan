@@ -1,0 +1,3308 @@
+[{
+	"id": "7d38e771-150c-4497-86e5-2056c75d1932",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 74,
+	"svgPositionY": 174,
+	"mPoint": {
+		"startX": 79,
+		"startY": 148,
+		"endX": 404,
+		"endY": 151
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ccf9c574-0f14-47e9-a4b0-79ebb06e46c9",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 143,
+	"svgPositionY": 236,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "71455d36-4303-4791-bf36-593a45b7d87d",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": -97,
+	"svgPositionY": 91,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "cde070dd-685e-4e81-8235-37a46cd0341b",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": -97,
+	"svgPositionY": 66,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "94d8ab0b-e77a-48ff-bfcc-6c1ed4508090",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 143,
+	"svgPositionY": 174,
+	"mPoint": {
+		"startX": 139,
+		"startY": 154,
+		"endX": 139,
+		"endY": 178
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "68cca291-dc73-4f7f-89ae-54a869fed669",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 179,
+	"svgPositionY": 223,
+	"mPoint": {
+		"startX": 257,
+		"startY": 199,
+		"endX": 260,
+		"endY": 269
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "2ffa2478-6b92-4561-bdb2-364753af1c45",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 143,
+	"svgPositionY": 279,
+	"mPoint": {
+		"startX": 142,
+		"startY": 292,
+		"endX": 133,
+		"endY": 470
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "db68436e-b1ed-4a3f-b27d-08b1bb9f9506",
+	"title": "箭头向下",
+	"type": "ArrowDownSvg",
+	"typeName": "箭头向下",
+	"svgColor": "#FF0000",
+	"svgPositionX": 143,
+	"svgPositionY": 440,
+	"echartsOption": "",
+	"size": 1.5,
+	"angle": 0
+}, {
+	"id": "8b03f37a-4adc-48d1-8017-d78d06444be1",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 70,
+	"svgPositionY": 334,
+	"mPoint": {
+		"startX": 70,
+		"startY": 356,
+		"endX": 219,
+		"endY": 357
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "241c3d1c-9916-4a31-88fa-202f34cf3618",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 219,
+	"svgPositionY": 346,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "80943cd5-a5f2-4276-8c62-f3d7dd5d7be9",
+	"title": "避雷器",
+	"type": "LightningArresterSvg",
+	"typeName": "避雷器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 70,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "8b5d0a0b-6b2b-4c30-8008-eada3d46d153",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 219,
+	"svgPositionY": 382,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "f6bb5857-ffbe-4306-88e4-6518d64cbba2",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 219,
+	"svgPositionY": 417,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "a44b5c1a-a6ab-4c26-9037-c39eee6524ce",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 219,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 258,
+		"startY": 336,
+		"endX": 259,
+		"endY": 347
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "4ec7504a-40b5-48f3-8798-2e1e3d002d18",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 219,
+	"svgPositionY": 393,
+	"mPoint": {
+		"startX": 234,
+		"startY": 393,
+		"endX": 235,
+		"endY": 412
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d2653f11-25b3-496d-8daf-36d22072b2d2",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 70,
+	"svgPositionY": 334,
+	"mPoint": {
+		"startX": 324,
+		"startY": 328,
+		"endX": 322,
+		"endY": 345
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "68c6c521-e021-4c5b-b6f0-22effde57e05",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 70,
+	"svgPositionY": 417,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "6f1f56ca-7aba-4c46-bf79-c4bb73426d44",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 70,
+	"svgPositionY": 392,
+	"mPoint": {
+		"startX": 115,
+		"startY": 381,
+		"endX": 112,
+		"endY": 402
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "b8148ac7-5e53-4c34-a456-875784c20893",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 101,
+	"svgPositionY": 223,
+	"mPoint": {
+		"startX": 94,
+		"startY": 219,
+		"endX": 100,
+		"endY": 290
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "8336b435-7d0f-48c2-8135-cf44a89b4b8a",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 339,
+	"svgPositionY": 174,
+	"mPoint": {
+		"startX": 339,
+		"startY": 177,
+		"endX": 326,
+		"endY": 452
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "75df2ad3-f5be-42d5-8834-3905d6fc168a",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 339,
+	"svgPositionY": 450,
+	"mPoint": {
+		"startX": 342,
+		"startY": 449,
+		"endX": 555,
+		"endY": 455
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "c0baff40-9ebb-4688-9ab0-0fed02e8afe0",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 552,
+	"svgPositionY": 174,
+	"mPoint": {
+		"startX": 554,
+		"startY": 268,
+		"endX": 557,
+		"endY": 294
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "03fbd501-827f-409d-8e0b-8489f1bcbf67",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 552,
+	"svgPositionY": 236,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "68fba5d8-a5d3-421c-8884-58dbc88ab59a",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 552,
+	"svgPositionY": 279,
+	"mPoint": {
+		"startX": 572,
+		"startY": 280,
+		"endX": 564,
+		"endY": 449
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "91472e56-afe4-4191-80c8-b128c16de92a",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 552,
+	"svgPositionY": 324,
+	"mPoint": {
+		"startX": 559,
+		"startY": 356,
+		"endX": 594,
+		"endY": 355
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "8c15f2d8-6688-46fd-ab12-240d41f00e02",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 585,
+	"svgPositionY": 324,
+	"mPoint": {
+		"startX": 640,
+		"startY": 358,
+		"endX": 644,
+		"endY": 370
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "525a5372-c5b9-4a9f-9d5b-070d3e33d925",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 585,
+	"svgPositionY": 346,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "33874ae9-01ea-4d8f-8a30-07e6c3e361e6",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 585,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "3b1d0591-6746-401a-8d9f-dfbbe6f3e1d2",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 585,
+	"svgPositionY": 389,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "eba83356-31a0-4c37-ab01-75a04ebcdbab",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 354,
+	"svgPositionY": 204,
+	"mPoint": {
+		"startX": 559,
+		"startY": 356,
+		"endX": 594,
+		"endY": 355
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "59ee27f0-b1eb-42a5-8dda-f72409e13072",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 339,
+	"svgPositionY": 248,
+	"mPoint": {
+		"startX": 343,
+		"startY": 269,
+		"endX": 393,
+		"endY": 268
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "450aeafe-9b19-4eb0-8696-c3f2d12ea573",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 648,
+	"svgPositionY": 405,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 180
+}, {
+	"id": "7e6b4c04-d8ff-42ee-acdc-32d1db52ab76",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 389,
+	"svgPositionY": 204,
+	"mPoint": {
+		"startX": 406,
+		"startY": 200,
+		"endX": 414,
+		"endY": 246
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "0ae6b0c1-1acf-4f3e-9597-9f8ff6fc446b",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 295,
+	"svgPositionY": 204,
+	"mPoint": {
+		"startX": 292,
+		"startY": 199,
+		"endX": 328,
+		"endY": 199
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "739cc233-5c71-4267-8ecd-c1b2b002b2ff",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 264,
+	"svgPositionY": 204,
+	"mPoint": {
+		"startX": 264,
+		"startY": 202,
+		"endX": 279,
+		"endY": 205
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "4dbc2907-9867-40ea-8700-da2def2932f3",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 264,
+	"svgPositionY": 205,
+	"mPoint": {
+		"startX": 261,
+		"startY": 211,
+		"endX": 261,
+		"endY": 295
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "a81e0a43-8992-48f0-a942-441018696621",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 263,
+	"svgPositionY": 308,
+	"mPoint": {
+		"startX": 263,
+		"startY": 308,
+		"endX": 265,
+		"endY": 353
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "55d861c3-41ca-4806-8824-6bc39373e58b",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 264,
+	"svgPositionY": 370,
+	"mPoint": {
+		"startX": 261,
+		"startY": 366,
+		"endX": 262,
+		"endY": 391
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "53a239fe-f81a-4d42-8dd3-c994d8ddb259",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 277,
+	"svgPositionY": 394,
+	"mPoint": {
+		"startX": 277,
+		"startY": 388,
+		"endX": 300,
+		"endY": 396
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "835071de-c984-4d33-bfa3-68495f621fad",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 310,
+	"svgPositionY": 394,
+	"mPoint": {
+		"startX": 313,
+		"startY": 387,
+		"endX": 329,
+		"endY": 390
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "fed2912d-8436-4b26-9e8e-f9ba7dce676c",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 326,
+	"svgPositionY": 346,
+	"mPoint": {
+		"startX": 329,
+		"startY": 328,
+		"endX": 330,
+		"endY": 363
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "c9ce1629-29ba-41f1-9e54-433433cb3ac2",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 326,
+	"svgPositionY": 290,
+	"mPoint": {
+		"startX": 320,
+		"startY": 286,
+		"endX": 322,
+		"endY": 325
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "7260d409-3a52-4d42-8495-7d57669c194b",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 326,
+	"svgPositionY": 248,
+	"mPoint": {
+		"startX": 322,
+		"startY": 244,
+		"endX": 330,
+		"endY": 244
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "08c17cbc-d87c-43f2-895b-30b8951ef881",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 326,
+	"svgPositionY": 248,
+	"mPoint": {
+		"startX": 313,
+		"startY": 250,
+		"endX": 312,
+		"endY": 275
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d214cbc9-67ff-45b6-83b7-fb1315f2a20a",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 295,
+	"svgPositionY": 279,
+	"mPoint": {
+		"startX": 289,
+		"startY": 276,
+		"endX": 373,
+		"endY": 279
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d91a9bf7-5da2-42b3-bfe9-5c4bf98ba381",
+	"title": "长方形",
+	"type": "RectSvg",
+	"typeName": "长方形",
+	"svgColor": "#FF0000",
+	"svgPositionX": 295,
+	"svgPositionY": 324,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "af5f63df-2365-4e8a-9303-2398f5e36cdf",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 295,
+	"svgPositionY": 279,
+	"mPoint": {
+		"startX": 293,
+		"startY": 277,
+		"endX": 298,
+		"endY": 369
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "0011ee71-c4f6-43ee-9e75-3b54c0c53117",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 278,
+	"svgPositionY": 370,
+	"mPoint": {
+		"startX": 278,
+		"startY": 370,
+		"endX": 311,
+		"endY": 370
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "0954a5f5-f0f4-49da-82d4-adb28a1d3a3c",
+	"title": "双圆",
+	"type": "TwoCircleSvg",
+	"typeName": "双圆",
+	"svgColor": "#FF0000",
+	"svgPositionX": 277,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "3b51f0ef-2780-46b6-8594-52dbd6a25ebf",
+	"title": "双圆",
+	"type": "TwoCircleSvg",
+	"typeName": "双圆",
+	"svgColor": "#FF0000",
+	"svgPositionX": 311,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ef9fc261-b12a-4192-a78d-2e9842096b2f",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 379,
+	"svgPositionY": 290,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "818b3306-20fa-4d84-8258-443e531cf47a",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 379,
+	"svgPositionY": 316,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "6831a008-4349-44a5-89d1-9379b2e153ba",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 379,
+	"svgPositionY": 334,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "b5bbe4c2-877a-4166-9b43-c13aa0eff827",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 759,
+	"svgPositionY": 174,
+	"mPoint": {
+		"startX": 799,
+		"startY": 192,
+		"endX": 797,
+		"endY": 254
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d1321242-63ef-421d-8af0-42eef4cabeea",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 759,
+	"svgPositionY": 247,
+	"mPoint": {
+		"startX": 759,
+		"startY": 257,
+		"endX": 755,
+		"endY": 334
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "7f1644f4-a737-4946-9621-63dacd870dd4",
+	"title": "多段折线",
+	"type": "PolylineSvg",
+	"typeName": "多段折线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 759,
+	"svgPositionY": 244,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "753df1ef-b791-4e2b-8236-f3433202d8f0",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 698,
+	"svgPositionY": 325,
+	"mPoint": {
+		"startX": 698,
+		"startY": 325,
+		"endX": 826,
+		"endY": 329
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "c24be23a-d611-4fa5-8063-45b8482a7b5c",
+	"title": "避雷器",
+	"type": "LightningArresterSvg",
+	"typeName": "避雷器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 698,
+	"svgPositionY": 366,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "f71aa38b-2dcb-4865-af6b-2491c9adb588",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 698,
+	"svgPositionY": 324,
+	"mPoint": {
+		"startX": 674,
+		"startY": 321,
+		"endX": 674,
+		"endY": 343
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "59c120dc-c415-4ac9-b62a-5a2e724a94cb",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 698,
+	"svgPositionY": 399,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "1c4af266-2cca-4fbb-9c3b-227be1c06606",
+	"title": "长方形",
+	"type": "RectSvg",
+	"typeName": "长方形",
+	"svgColor": "#FF0000",
+	"svgPositionX": 826,
+	"svgPositionY": 348,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "662b6bb5-93a5-466d-8c38-ae7a0545a3a2",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 826,
+	"svgPositionY": 324,
+	"mPoint": {
+		"startX": 895,
+		"startY": 339,
+		"endX": 895,
+		"endY": 389
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "086c33e7-c1a4-4fcf-b76d-2c48d4f383d2",
+	"title": "电流互感器Y",
+	"type": "TransformerYSvg",
+	"typeName": "电流互感器Y",
+	"svgColor": "#FF0000",
+	"svgPositionX": 826,
+	"svgPositionY": 382,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "5f767e6a-6bbb-440f-9254-f6d813b9c003",
+	"title": "电流互感器Y",
+	"type": "TransformerYSvg",
+	"typeName": "电流互感器Y",
+	"svgColor": "#FF0000",
+	"svgPositionX": 816,
+	"svgPositionY": 393,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "26754bfb-a04f-43df-85a5-b60b0db4e817",
+	"title": "电流互感器Y",
+	"type": "TransformerYSvg",
+	"typeName": "电流互感器Y",
+	"svgColor": "#FF0000",
+	"svgPositionX": 836,
+	"svgPositionY": 393,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "0c371c44-a260-4c3c-84b3-2ea6ca2e0f07",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 790,
+	"svgPositionY": 375,
+	"mPoint": {
+		"startX": 794,
+		"startY": 373,
+		"endX": 824,
+		"endY": 377
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "f2da2457-75d0-4711-adea-af59fc194ebb",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 790,
+	"svgPositionY": 375,
+	"mPoint": {
+		"startX": 790,
+		"startY": 371,
+		"endX": 792,
+		"endY": 409
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "511d85c5-f9c3-44ef-8a4b-ea6de68c1cae",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 790,
+	"svgPositionY": 392,
+	"mPoint": {
+		"startX": 795,
+		"startY": 392,
+		"endX": 810,
+		"endY": 392
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "6489e236-8507-4c8e-b67c-bcc6adabbabe",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 790,
+	"svgPositionY": 419,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "92286117-63ff-4853-881d-abbedaf081a8",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1024,
+	"svgPositionY": 215,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "202a368c-da13-4dc5-84df-39ef78fdb967",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": -177,
+	"svgPositionY": 91,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "8c391c64-e23d-42d9-993d-693cb7befd4b",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": -177,
+	"svgPositionY": 66,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "3a8cb69e-16b8-4577-85b2-8ff5e671f765",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1024,
+	"svgPositionY": 260,
+	"mPoint": {
+		"startX": 1026,
+		"startY": 260,
+		"endX": 1028,
+		"endY": 456
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "bc8a07fe-3257-4536-a66e-06c646befac9",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 897,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 897,
+		"startY": 359,
+		"endX": 1097,
+		"endY": 356
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ba952306-9f1e-41c9-94e8-30f779d7daec",
+	"title": "隔离开关",
+	"sigId": "3",
+	"type": "IsolatingSwitchSvg",
+	"typeName": "隔离开关",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1097,
+	"svgPositionY": 378,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "32a70fd4-bdc0-473d-896c-151dd07bc3cd",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1097,
+	"svgPositionY": 419,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "45adefc8-13c4-4cb1-9168-5193643a1095",
+	"title": "避雷器",
+	"type": "LightningArresterSvg",
+	"typeName": "避雷器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 958,
+	"svgPositionY": 380,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ae2b8a2d-d29c-465f-bf0b-050f0d9b83fc",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 958,
+	"svgPositionY": 413,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "e57cc12b-34e7-4312-bdc4-9ec6688c5f51",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 897,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "a0904bcb-22c1-4334-8022-b3eec2e207ab",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 897,
+	"svgPositionY": 393,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "27560552-8ab7-4764-8dd0-4285307cc84e",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 897,
+	"svgPositionY": 412,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "81cab704-09cf-4989-8254-c7612798648c",
+	"title": "箭头向下",
+	"type": "ArrowDownSvg",
+	"typeName": "箭头向下",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1024,
+	"svgPositionY": 440,
+	"echartsOption": "",
+	"size": 1.5,
+	"angle": 0
+}, {
+	"id": "b42dedb6-d26d-4227-8c30-2a18886ed105",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 779,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "0a27f623-bfdb-48ee-9fb5-7e17832a209e",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 698,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "5058d4fb-38eb-41e6-8440-872a11ffd4d5",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 698,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "7933c0a9-46e9-4932-b8cc-94ac3982f8aa",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 779,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "0103df91-dc9d-4f34-8a43-5c6f90a370eb",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 974,
+	"svgPositionY": 271,
+	"mPoint": {
+		"startX": 973,
+		"startY": 268,
+		"endX": 970,
+		"endY": 344
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "bf5615d8-5e18-43fa-8439-5ff82d4cdc14",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1056,
+	"svgPositionY": 271,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "6512eb74-0764-42d2-b731-ad5c34fc5649",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1281,
+	"svgPositionY": 213,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "61e07a48-ddcc-44de-997c-ca5ba0b1cefa",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 521,
+	"svgPositionY": 174,
+	"mPoint": {
+		"startX": 485,
+		"startY": 164,
+		"endX": 1789,
+		"endY": 202
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "122d1f85-1457-435a-852e-7cd305144530",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1281,
+	"svgPositionY": 257,
+	"mPoint": {
+		"startX": 1026,
+		"startY": 260,
+		"endX": 1028,
+		"endY": 456
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d579c59e-83ed-4303-867f-df4e64b17af6",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1162,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 897,
+		"startY": 359,
+		"endX": 1097,
+		"endY": 356
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "741f518b-3679-4ae8-8425-4e8c6c229f4b",
+	"title": "隔离开关",
+	"sigId": "3",
+	"type": "IsolatingSwitchSvg",
+	"typeName": "隔离开关",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1362,
+	"svgPositionY": 378,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "e5b377f0-48f3-4bb9-8003-cc8e12d9e611",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1362,
+	"svgPositionY": 417,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d3c278b1-3095-4cdf-85f0-db41e7143aa2",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1162,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "bd614b32-482a-45f4-9154-2b960bef65d3",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1162,
+	"svgPositionY": 393,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "49b1826d-90ea-4205-8ca5-0775ec7664dd",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1162,
+	"svgPositionY": 412,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d832e4d3-60c0-4038-a478-83a91023e906",
+	"title": "避雷器",
+	"type": "LightningArresterSvg",
+	"typeName": "避雷器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1218,
+	"svgPositionY": 380,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "54a28eed-15cb-4fbc-9420-5dd2c6d65e3a",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1218,
+	"svgPositionY": 415,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "6cedd6a8-e552-4b3a-9333-54eff6dead1c",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1038,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "97eead10-b1df-43a9-8a88-4c45cf56ce6b",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1038,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "179938bb-b245-48e8-8e1f-2e1a76f83066",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 958,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "747bfbe3-6fc6-4be4-8d63-e8ac0ced5f33",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 958,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "2f5c115b-00d7-4ae4-865d-4f98ae9a31d4",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1235,
+	"svgPositionY": 274,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "a9839211-aa83-404b-9ff1-cfed72b16121",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1315,
+	"svgPositionY": 276,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "7f1b1777-99ec-4245-a276-bb84dd6296b1",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1567,
+	"svgPositionY": 215,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "6ae6abd1-a673-405e-9edf-db70c0317a74",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1567,
+	"svgPositionY": 260,
+	"mPoint": {
+		"startX": 1026,
+		"startY": 260,
+		"endX": 1028,
+		"endY": 456
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "aec5717a-2844-49d9-8441-a77894457360",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1443,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 897,
+		"startY": 359,
+		"endX": 1097,
+		"endY": 356
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "8b4078cc-b35d-4956-9b1d-65feaa8953e8",
+	"title": "隔离开关",
+	"sigId": "3",
+	"type": "IsolatingSwitchSvg",
+	"typeName": "隔离开关",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1642,
+	"svgPositionY": 378,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "fc3c86f8-d324-4f1f-8a0c-4f7677a5ff8f",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1642,
+	"svgPositionY": 418,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "3efc2583-dc5a-42b9-8f41-aaee17ebee15",
+	"title": "避雷器",
+	"type": "LightningArresterSvg",
+	"typeName": "避雷器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1502,
+	"svgPositionY": 381,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "473300fb-2926-4a43-86b7-1f614d5756b0",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1443,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "75a483f5-eb6d-4fed-9d42-e598a272c186",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1443,
+	"svgPositionY": 393,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "2e5dd470-a4ff-4b51-814d-0edadf7c0815",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1502,
+	"svgPositionY": 415,
+	"echartsOption": "",
+	"size": 1.5,
+	"angle": 0
+}, {
+	"id": "27fea7f4-54a8-458d-8371-65a9352bc756",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1443,
+	"svgPositionY": 412,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "19f759f0-c181-404c-8556-4aad81962700",
+	"title": "箭头向下",
+	"type": "ArrowDownSvg",
+	"typeName": "箭头向下",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1281,
+	"svgPositionY": 440,
+	"echartsOption": "",
+	"size": 1.5,
+	"angle": 0
+}, {
+	"id": "74cb39ae-1a88-4b30-84d6-19d739213f2f",
+	"title": "箭头向下",
+	"type": "ArrowDownSvg",
+	"typeName": "箭头向下",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1567,
+	"svgPositionY": 440,
+	"echartsOption": "",
+	"size": 1.5,
+	"angle": 0
+}, {
+	"id": "7b278381-df58-4de5-87f2-bd5e8e905372",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1218,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "1077699c-a110-4dcc-ac59-6a845c18f72f",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1218,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "a6667e0e-6c71-4465-8f5f-898023e00425",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1325,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "69096e87-c2b8-4328-8da5-853a402da4ab",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1325,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ce98ccc9-6034-4fa9-8261-2e145d7895bc",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1494,
+	"svgPositionY": 271,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "eabf5b0b-334a-40f4-8997-5a34e5ffd3b0",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1602,
+	"svgPositionY": 273,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ebf18ccf-2926-4c77-8c65-41f64994a78f",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1788,
+	"svgPositionY": 214,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "fa824309-24eb-47b9-86ab-42693186419c",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1788,
+	"svgPositionY": 256,
+	"mPoint": {
+		"startX": 1026,
+		"startY": 260,
+		"endX": 1028,
+		"endY": 456
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "21cfc535-7452-4e9e-b463-96ddd4ecb593",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1717,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 1722,
+		"startY": 350,
+		"endX": 1860,
+		"endY": 361
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "576bd6a4-eda3-4ad0-9563-0e9f9b2f7bdc",
+	"title": "避雷器",
+	"type": "LightningArresterSvg",
+	"typeName": "避雷器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1717,
+	"svgPositionY": 379,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d176210b-7ac7-4a2b-815f-420f80af0be4",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1717,
+	"svgPositionY": 411,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d16e56d3-d9de-4f01-8018-6020a51505c4",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1856,
+	"svgPositionY": 369,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "24bce852-78e4-4bdd-9cf4-5f843ee514c8",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1856,
+	"svgPositionY": 392,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "224e783f-2de7-4513-8663-1c0a68c283d2",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 1856,
+	"svgPositionY": 410,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "74027dee-48dd-4749-88b4-402eccff4066",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1788,
+	"svgPositionY": 452,
+	"mPoint": {
+		"startX": 1792,
+		"startY": 453,
+		"endX": 2031,
+		"endY": 463
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "fe888758-cb4c-43ca-a633-b192dab5a09e",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1992,
+	"svgPositionY": 174,
+	"mPoint": {
+		"startX": 1966,
+		"startY": 171,
+		"endX": 2227,
+		"endY": 209
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "63dd9967-0950-45df-b686-9e18ba738c1f",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2025,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 2034,
+		"startY": 354,
+		"endX": 2073,
+		"endY": 354
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "31e82ea4-9ba8-453b-9ed7-5460f8f7d53a",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1471,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "c9f0db9b-04b7-4730-82bd-dd68621823bf",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1471,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "9c433f86-8822-42b8-988d-40a3db6038f9",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1542,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "68f72d04-892f-49c5-b81e-36f2df44a2b5",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1542,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "cbb570a3-f0f8-4311-8030-1c0f86f13e56",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1747,
+	"svgPositionY": 275,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "09c45493-1a74-455b-9bb9-14e98c4820e7",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 1819,
+	"svgPositionY": 274,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "c0288a32-3c80-4159-95af-acbce8adb29f",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2064,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ee376eb2-bcd8-4eed-84fa-f89fd9f43039",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2064,
+	"svgPositionY": 393,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "599dfcf0-e453-40b1-85be-3cdea204145b",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 2064,
+	"svgPositionY": 411,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "006773eb-d271-4572-8ede-bac5c9814759",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2026,
+	"svgPositionY": 215,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "8d3648a0-cbd6-4778-94a3-aa74a6c60ba8",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2026,
+	"svgPositionY": 257,
+	"mPoint": {
+		"startX": 1026,
+		"startY": 260,
+		"endX": 1028,
+		"endY": 456
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "14b73fa5-2ac5-47c9-891e-040c4a902c87",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2211,
+	"svgPositionY": 215,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "165e99ac-666a-4cd3-8ae3-8da686c1a3d4",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2211,
+	"svgPositionY": 260,
+	"mPoint": {
+		"startX": 1026,
+		"startY": 260,
+		"endX": 1028,
+		"endY": 456
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "e38537c9-71e5-4cf8-8238-775dd7f58956",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2211,
+	"svgPositionY": 455,
+	"mPoint": {
+		"startX": 2227,
+		"startY": 454,
+		"endX": 2399,
+		"endY": 461
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "632a0410-430d-48fd-8e96-11fc1c4cb27f",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2172,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 2034,
+		"startY": 354,
+		"endX": 2073,
+		"endY": 354
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "3813a214-94fa-479c-83bd-9cc0352f07ed",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2172,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "97e03f59-cf8c-4b73-8c28-89106608fc0a",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2172,
+	"svgPositionY": 393,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "240d0b53-8672-4c3a-8058-02b7ab82af1a",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 2171,
+	"svgPositionY": 411,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "dd98c5fe-0817-4547-8faf-608fca799aad",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2340,
+	"svgPositionY": 174,
+	"mPoint": {
+		"startX": 2340,
+		"startY": 174,
+		"endX": 2633,
+		"endY": 205
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "23fbe972-a96d-4225-8daf-ad5f874d24f9",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2384,
+	"svgPositionY": 173,
+	"mPoint": {
+		"startX": 2326,
+		"startY": 170,
+		"endX": 2316,
+		"endY": 453
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "970fef85-ee7d-4a80-8299-c0d5d712076a",
+	"title": "电线开关-断开",
+	"sigId": "5",
+	"type": "WireBreakOffSvg",
+	"typeName": "电线开关-断开",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2583,
+	"svgPositionY": 215,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ace3ded7-4815-4a28-8e1a-7095c83acc19",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2583,
+	"svgPositionY": 260,
+	"mPoint": {
+		"startX": 1026,
+		"startY": 260,
+		"endX": 1028,
+		"endY": 456
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "c41b3431-c625-46f3-803e-2f041e7d34a3",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2514,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 1722,
+		"startY": 350,
+		"endX": 1860,
+		"endY": 361
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "4c236039-3892-4302-b21d-c9352ea3c849",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2651,
+	"svgPositionY": 370,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "cdb5d1de-9dc8-4677-b5d1-b6f5ff54b6ab",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2651,
+	"svgPositionY": 393,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "0fcc2140-5553-4a6f-bc03-3e8754a5fdca",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 2651,
+	"svgPositionY": 410,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "4f2383e1-f17e-4435-b0fb-6a58eb6a1382",
+	"title": "避雷器",
+	"type": "LightningArresterSvg",
+	"typeName": "避雷器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2515,
+	"svgPositionY": 380,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "9e80a1d4-8d51-47b3-8224-208b82abca6a",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 2514,
+	"svgPositionY": 414,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "475137d4-cceb-48c8-95e2-6922d5cb51c8",
+	"title": "箭头向下",
+	"type": "ArrowDownSvg",
+	"typeName": "箭头向下",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2583,
+	"svgPositionY": 440,
+	"echartsOption": "",
+	"size": 1.5,
+	"angle": 0
+}, {
+	"id": "2db610cf-118b-4555-82b5-630342e3e7e3",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2266,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "6318fb89-06aa-4faa-a7cc-89158b76554d",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2266,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d6ee1139-ef98-4324-85a0-1dc51f527f57",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2340,
+	"svgPositionY": 122,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "80032a08-4d7d-4c3b-87b6-d0011625684c",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2340,
+	"svgPositionY": 144,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "7630bfb8-1ed8-432c-b426-62709d98b5b1",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2543,
+	"svgPositionY": 275,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "3b9f1707-f4e5-4c60-88a5-b1cfddc82c1f",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2617,
+	"svgPositionY": 274,
+	"mPoint": {
+		"startX": 1056,
+		"startY": 265,
+		"endX": 1049,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "985f9218-5db2-4e23-899f-9966b4c3dbc7",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2078,
+	"svgPositionY": 54,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "20e5d410-8fb8-4b22-8247-c1589550eee1",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2355,
+	"svgPositionY": 218,
+	"mPoint": {
+		"startX": 2326,
+		"startY": 217,
+		"endX": 2331,
+		"endY": 247
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "b05d65d1-cd3e-4d3a-8df5-504b6ecc24a9",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2333,
+	"svgPositionY": 212,
+	"mPoint": {
+		"startX": 2333,
+		"startY": 212,
+		"endX": 2374,
+		"endY": 207
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "381db7c8-5e98-470e-a032-2cbdb0b6559a",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2333,
+	"svgPositionY": 212,
+	"mPoint": {
+		"startX": 2326,
+		"startY": 209,
+		"endX": 2330,
+		"endY": 252
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "e33af67c-7120-4cfc-83ed-3b4d703367f2",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2337,
+	"svgPositionY": 253,
+	"mPoint": {
+		"startX": 2332,
+		"startY": 260,
+		"endX": 2372,
+		"endY": 265
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "24ee6be3-2a05-44a2-8623-8f46941dcf66",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2385,
+	"svgPositionY": 253,
+	"mPoint": {
+		"startX": 2388,
+		"startY": 250,
+		"endX": 2396,
+		"endY": 251
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "5f0c2e48-f73b-4bd0-902e-6845d1bdd6e7",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2393,
+	"svgPositionY": 253,
+	"mPoint": {
+		"startX": 2401,
+		"startY": 251,
+		"endX": 2400,
+		"endY": 280
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "d1dd4f92-726c-4c7f-a695-ca3d9df2647f",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2393,
+	"svgPositionY": 305,
+	"mPoint": {
+		"startX": 2393,
+		"startY": 305,
+		"endX": 2394,
+		"endY": 341
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "e493bb52-3e0c-4242-89da-6224b83e4d17",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2393,
+	"svgPositionY": 358,
+	"mPoint": {
+		"startX": 2391,
+		"startY": 360,
+		"endX": 2393,
+		"endY": 396
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "5d29f547-6053-411f-8329-20e8bce783bc",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2393,
+	"svgPositionY": 393,
+	"mPoint": {
+		"startX": 2391,
+		"startY": 401,
+		"endX": 2401,
+		"endY": 400
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "954dbcb1-4ce0-4655-8450-37ae1b206ec8",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2418,
+	"svgPositionY": 393,
+	"mPoint": {
+		"startX": 2420,
+		"startY": 402,
+		"endX": 2440,
+		"endY": 404
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "b47166e2-b0a5-4497-a856-b1a81a637852",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2462,
+	"svgPositionY": 329,
+	"mPoint": {
+		"startX": 2462,
+		"startY": 329,
+		"endX": 2469,
+		"endY": 391
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "711f52e9-c8c4-4e7c-8de1-e24929dd37fb",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2462,
+	"svgPositionY": 245,
+	"mPoint": {
+		"startX": 2462,
+		"startY": 245,
+		"endX": 2464,
+		"endY": 303
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "b815a611-95a6-4294-a741-4bec2630bcc5",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2399,
+	"svgPositionY": 211,
+	"mPoint": {
+		"startX": 2399,
+		"startY": 211,
+		"endX": 2435,
+		"endY": 222
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "47cca63b-b095-4a19-b30a-6643b84a95a2",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2462,
+	"svgPositionY": 212,
+	"mPoint": {
+		"startX": 2462,
+		"startY": 212,
+		"endX": 2462,
+		"endY": 232
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "f42a6b37-8f72-4cb1-996c-599d72db6dec",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2445,
+	"svgPositionY": 209,
+	"mPoint": {
+		"startX": 2445,
+		"startY": 209,
+		"endX": 2454,
+		"endY": 209
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "e9d0cfb3-c646-4e6e-8435-94e7adb4a17b",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2430,
+	"svgPositionY": 288,
+	"mPoint": {
+		"startX": 2430,
+		"startY": 288,
+		"endX": 2292,
+		"endY": 289
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "ac26f2c2-327e-47e5-9914-d46fc880148d",
+	"title": "长方形",
+	"type": "RectSvg",
+	"typeName": "长方形",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2430,
+	"svgPositionY": 324,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "045047a6-417e-4a59-ae41-4a725707e737",
+	"title": "长方形",
+	"type": "RectSvg",
+	"typeName": "长方形",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2340,
+	"svgPositionY": 319,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "10c0076f-4b15-4aa3-8c9d-d76565ee3a49",
+	"title": "标准电容器",
+	"type": "StandardCapacitorSvg",
+	"typeName": "标准电容器",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2293,
+	"svgPositionY": 301,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "fa0d50b4-ccf7-4203-9763-d7b4e10e1e9c",
+	"title": "信号灯",
+	"type": "SignalLampSvg",
+	"typeName": "信号灯",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2292,
+	"svgPositionY": 325,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "9bc277b1-62a1-410b-9333-9d4e0b2c1f33",
+	"title": "接地灰白",
+	"type": "GroundGraySvg",
+	"typeName": "接地灰白",
+	"svgColor": "#CCCCCC",
+	"svgPositionX": 2292,
+	"svgPositionY": 344,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "774bfdcc-2f2f-453e-8ad8-0b2fffa4cf9d",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2340,
+	"svgPositionY": 290,
+	"mPoint": {
+		"startX": 2361,
+		"startY": 294,
+		"endX": 2368,
+		"endY": 348
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "dbce6ac5-15b7-48ac-93ce-e3e0eae93473",
+	"title": "双圆",
+	"type": "TwoCircleSvg",
+	"typeName": "双圆",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2340,
+	"svgPositionY": 354,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "55071460-8ebd-4ff2-804f-b418d363b148",
+	"title": "P20",
+	"sigId": "1",
+	"type": "P20Svg",
+	"typeName": "P20",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2146,
+	"svgPositionY": 54,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "82785720-001f-46f9-81e6-86f319f12a67",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2423,
+	"svgPositionY": 218,
+	"mPoint": {
+		"startX": 2326,
+		"startY": 217,
+		"endX": 2331,
+		"endY": 247
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "c99663d5-2b66-4305-8fd9-b24ba4461ce2",
+	"title": "连接线-竖线",
+	"type": "ConnVerticalLineSvg",
+	"typeName": "连接线-竖线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2430,
+	"svgPositionY": 288,
+	"mPoint": {
+		"startX": 2438,
+		"startY": 285,
+		"endX": 2440,
+		"endY": 367
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "fe69aa43-ca98-4ee0-8176-c708086333a0",
+	"title": "连接线-横线",
+	"type": "ConnHorizontalLineSvg",
+	"typeName": "连接线-横线",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2406,
+	"svgPositionY": 368,
+	"mPoint": {
+		"startX": 2406,
+		"startY": 368,
+		"endX": 2451,
+		"endY": 374
+	},
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "3cd541ca-a3e1-4288-8f89-aaffff5a1550",
+	"title": "双圆",
+	"type": "TwoCircleSvg",
+	"typeName": "双圆",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2416,
+	"svgPositionY": 368,
+	"echartsOption": "",
+	"size": 1.4,
+	"angle": 0
+}, {
+	"id": "a8acf3d1-3b3b-4294-9825-0d7695ce90f6",
+	"title": "双圆",
+	"type": "TwoCircleSvg",
+	"typeName": "双圆",
+	"svgColor": "#FF0000",
+	"svgPositionX": 2442,
+	"svgPositionY": 368,
+	"echartsOption": "",
+	"size": 1,
+	"angle": 0
+}, {
+	"id": "93d1252a-8071-413a-83e1-f7e83e601955",
+	"title": "AH1",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 121,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "b857e603-79cd-468a-8161-44938201b87e",
+	"title": "AH2",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 419,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "4b49b249-5c15-4eda-9780-d6939a85426c",
+	"title": "AH3",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 735,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "f3acf234-c5e0-4dfc-8536-cf80b56c2430",
+	"title": "AH4",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 1000,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "a22eb405-db42-46d8-aceb-d47a02c211a4",
+	"title": "AH6",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 1256,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "a35bbc18-75b7-4eef-bfed-ecce7df3c0da",
+	"title": "AH7",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 1542,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "90252ed4-48db-41e0-9752-e681c7efc544",
+	"title": "AH8",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 1764,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "4c762f14-34b2-40b2-8187-ade88231cd93",
+	"title": "AH9",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 2003,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "83180f75-d17e-4d63-8939-6cb818086e86",
+	"title": "AH10",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 2279,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "d89cd269-bfc6-440a-8a10-11d5b4c4a0bf",
+	"title": "AH11",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#e8f901",
+	"svgPositionX": 2560,
+	"svgPositionY": 166,
+	"echartsOption": "",
+	"size": 2.5,
+	"angle": 0
+}, {
+	"id": "919940bb-db3f-460f-8780-4c2c22f3518a",
+	"title": "Va",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 57,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "3e58f418-e04a-4405-a3b5-bbbe39d54206",
+	"title": "Vb",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 57,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "f5f46cee-257a-49f4-a9b5-2622f8a7dc73",
+	"title": "Vc",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 57,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "7c2e4203-9744-4103-8875-5b8a09463167",
+	"title": "Ia",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 158,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "d970a70c-023d-4db3-97fd-6634978ee1dd",
+	"title": "Ib",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 158,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "fb687a07-a19b-4dba-b337-75039521038e",
+	"title": "Ic",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 158,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "612eb4af-2106-4981-8ee1-e222fe35a945",
+	"title": "Va",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 672,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "7f0149b6-89f8-4911-843d-82513c2a65dc",
+	"title": "Vb",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 672,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "caf443e2-62b4-47c3-846a-35e93c0cf0d4",
+	"title": "Vc",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 672,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "e8eb1dcb-9398-423e-8f16-a9c7f5613ef9",
+	"title": "Ia",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 790,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "ac0b459e-edd1-4512-b36f-9d0474445aec",
+	"title": "Ib",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 790,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "36c4d3b6-e940-4fe5-af22-147055afd54f",
+	"title": "Ic",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 790,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "b801f353-7e6b-4d91-be15-6fad4ff9dc79",
+	"title": "Va",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 924,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "f1cbc692-a776-42f0-9590-aa6cae84f5f9",
+	"title": "Vb",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 924,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "b12d0900-4875-4f60-8eaa-bd7f40cc3088",
+	"title": "Vc",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 924,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "02974d0c-527d-4d9d-9640-bb498cb22935",
+	"title": "Ia",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1024,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "4990c1a3-4518-4c28-8f54-9c3820201fce",
+	"title": "Ib",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1024,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "9c07110c-d302-4ff1-83b6-06803059dca9",
+	"title": "Ic",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1024,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "ef02af43-0825-4b62-906d-fad3e546c86d",
+	"title": "Va",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1152,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "9fc2e6e3-bf72-49e6-8ec3-e0dfc7fa674e",
+	"title": "Vb",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1152,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "16b4e806-2a27-4d0b-954f-ce0df7a1d8b8",
+	"title": "Vc",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1152,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "0c1c1d5c-6b77-4b96-8528-f1c334ed387e",
+	"title": "Ia",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1256,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "08bcb8cb-29de-4198-88fe-92ac453ebf31",
+	"title": "Ib",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1256,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "30a07f31-aed4-4aaa-8087-6fd6071d9e0b",
+	"title": "Ic",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1256,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "1d59c931-8479-4919-b91d-c7e80dc503e7",
+	"title": "Va",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1443,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "ae8c305a-b9ff-466b-877d-1bd3e3945c6a",
+	"title": "Vb",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1443,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "c45da901-5a09-48f7-8f93-5aed582a72e1",
+	"title": "Vc",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1443,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "72883cfc-b223-46cc-92bb-dcbc91a2275e",
+	"title": "Ia",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1542,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "69e54516-c116-4963-811b-f5a7d9095baf",
+	"title": "Ib",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1542,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "04ee337c-83f4-4602-8567-0ec75253050a",
+	"title": "Ic",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1542,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "72e59305-ecf9-475e-ab55-54f04a1a2f96",
+	"title": "Va",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1717,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "3933b5dd-98b3-4de7-8221-891b33edc3d7",
+	"title": "Vb",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1717,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "54d8ff1f-54f1-4892-9116-37cd89dba6b9",
+	"title": "Vc",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1717,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "b2e387ce-892f-49a6-8f27-e4ce4aeec477",
+	"title": "Ia",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1819,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "4826a596-d7d6-4e6d-9843-922789197b14",
+	"title": "Ib",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1819,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "e29089c4-176e-4e84-a911-2477ac50ae73",
+	"title": "Ic",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 1819,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "90945ddc-c092-42f7-8ebe-d5c83be9d45f",
+	"title": "Va",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 2514,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "4fa23a77-8604-4bef-8075-cfe7cc68ed88",
+	"title": "Vb",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 2514,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "39ecc3de-d7b9-40f3-9c08-c748c353acf2",
+	"title": "Vc",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 2514,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "f758df7f-2530-49fe-85b9-c7220108b282",
+	"title": "Ia",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 2617,
+	"svgPositionY": 498,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "95fb7a26-d5b5-4e9d-b6e2-6c1c7ed471b3",
+	"title": "Ib",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 2617,
+	"svgPositionY": 530,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}, {
+	"id": "5ae469f2-cc4a-4f00-9b15-71c9475f1416",
+	"title": "Ic",
+	"sigId": "4",
+	"type": "TextSvg",
+	"typeName": "文字",
+	"svgColor": "#f3f702",
+	"svgPositionX": 2617,
+	"svgPositionY": 566,
+	"echartsOption": "",
+	"size": 2,
+	"angle": 0
+}]

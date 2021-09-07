@@ -1,0 +1,120 @@
+[
+  {
+    "id": "336a1110-1081-4620-880c-c91a0525555f",
+    "title": "发电机",
+    "type": "AlternatorSvg",
+    "typeName": "发电机",
+    "svgColor": "#FF0000",
+    "svgPositionX": 272,
+    "svgPositionY": 175,
+    "echartsOption": "",
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "49062177-1eb9-4fcf-903b-3309158ccc88",
+    "title": "断路器",
+    "type": "CircuitBreakerSvg",
+    "typeName": "断路器",
+    "svgColor": "#FF0000",
+    "svgPositionX": 553,
+    "svgPositionY": 175,
+    "echartsOption": "",
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "366df58d-e218-4e8e-825c-8c1777ba00f9",
+    "title": "连接线-横线",
+    "type": "ConnHorizontalLineSvg",
+    "typeName": "连接线-横线",
+    "svgColor": "#FF0000",
+    "svgPositionX": 308,
+    "svgPositionY": 175,
+    "mPoint": {
+      "startX": 305,
+      "startY": 175,
+      "endX": 537,
+      "endY": 178
+    },
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "9e82acf1-fc00-449b-9f05-e760f1001cef",
+    "title": "接地灰白",
+    "type": "GroundGraySvg",
+    "typeName": "接地灰白",
+    "svgColor": "#CCCCCC",
+    "svgPositionX": 367,
+    "svgPositionY": 270,
+    "echartsOption": "",
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "5ad12351-017d-4f30-9560-8ad861ad7cce",
+    "title": "连接线",
+    "type": "ConnLineSvg",
+    "typeName": "连接线",
+    "svgColor": "#FF0000",
+    "svgPositionX": 369,
+    "svgPositionY": 175,
+    "mPoint": {
+      "startX": 369,
+      "startY": 177,
+      "endX": 367,
+      "endY": 267
+    },
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "3b75f253-3576-407f-ad94-e1185cbf2351",
+    "title": "ua",
+    "type": "TextSvg",
+    "typeName": "文字",
+    "svgColor": "#FF0000",
+    "svgPositionX": 302,
+    "svgPositionY": 123,
+    "echartsOption": "",
+    "size": 2,
+    "angle": 0
+  },
+  {
+    "id": "9a093b29-36ae-4647-893f-796532945f56",
+    "title": "12",
+    "type": "TextSvg",
+    "typeName": "文字",
+    "svgColor": "#FF0000",
+    "svgPositionX": 344,
+    "svgPositionY": 123,
+    "echartsOption": "",
+    "size": 1.7,
+    "angle": 0
+  },
+  {
+    "id": "d2e2601c-e53d-4a33-8cfe-c352c6da9904",
+    "title": "Ia",
+    "type": "TextSvg",
+    "typeName": "文字",
+    "svgColor": "#FF0000",
+    "svgPositionX": 492,
+    "svgPositionY": 233,
+    "echartsOption": "",
+    "size": 2,
+    "angle": 0
+  },
+  {
+    "id": "8dd8a333-ac35-413a-896b-8f28e183166b",
+    "title": "8",
+    "type": "TextSvg",
+    "typeName": "文字",
+    "svgColor": "#FF0000",
+    "svgPositionX": 531,
+    "svgPositionY": 233,
+    "echartsOption": "",
+    "size": 1.7,
+    "angle": 0
+  }
+]

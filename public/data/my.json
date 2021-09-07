@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fce2bfee-8d1a-4a32-9684-3bbe27bee284",
+    "title": "断路器",
+    "type": "CircuitBreakerSvg",
+    "typeName": "断路器",
+    "svgColor": "#FF0000",
+    "svgPositionX": 195,
+    "svgPositionY": 163,
+    "echartsOption": "",
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "2d7a7599-c172-42a6-8878-7f97ae1f252a",
+    "title": "接地灰白",
+    "type": "GroundGraySvg",
+    "typeName": "接地灰白",
+    "svgColor": "#CCCCCC",
+    "svgPositionX": 299,
+    "svgPositionY": 233,
+    "echartsOption": "",
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "04162750-fdb8-4a26-9630-0120ae69ebe4",
+    "title": "连接线-横线",
+    "type": "ConnHorizontalLineSvg",
+    "typeName": "连接线-横线",
+    "svgColor": "#FF0000",
+    "svgPositionX": 207,
+    "svgPositionY": 163,
+    "mPoint": {
+      "startX": 207,
+      "startY": 163,
+      "endX": 422,
+      "endY": 165
+    },
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "1570c054-6348-44e1-82d3-16064b56c64d",
+    "title": "连接线",
+    "type": "ConnLineSvg",
+    "typeName": "连接线",
+    "svgColor": "#FF0000",
+    "svgPositionX": 299,
+    "svgPositionY": 163,
+    "mPoint": {
+      "startX": 293,
+      "startY": 166,
+      "endX": 292,
+      "endY": 223
+    },
+    "size": 1,
+    "angle": 0
+  },
+  {
+    "id": "e30fc5d1-1fc7-4092-b72c-3315b517da75",
+    "title": "发电机",
+    "type": "AlternatorSvg",
+    "typeName": "发电机",
+    "svgColor": "#FF0000",
+    "svgPositionX": 459,
+    "svgPositionY": 165,
+    "echartsOption": "",
+    "size": 1,
+    "angle": 0
+  }
+]
